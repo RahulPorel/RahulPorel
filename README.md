@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Rahul Porel, and I'm a self-driven software developer on a learning journery. I specialize in technologies such as JavaScript, NodeJs, HTML, CSS, SASS and Firebase. Currently, I am diving into NextJs and ReactJS.
+My name is Rahul Porel, and I'm a self-driven software developer on a learning journery. I specialize in technologies such as JavaScript, NodeJs, HTML, CSS, SASS, Webpack, Bootstrap and  Firebase. Currently, I am diving into NextJs and ReactJS.
 
 ## Approach
 
