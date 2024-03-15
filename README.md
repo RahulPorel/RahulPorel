@@ -2,10 +2,23 @@
 
 ## About Me
 
-My name is Rahul Porel, and I'm a self-driven software developer on a learning journery. I specialize in technologies such as JavaScript, NodeJs, HTML, CSS, SASS, Webpack, Bootstrap and  Firebase. Currently, I am diving into NextJs and ReactJS. As a self-taught developer, I seek to delve deep into every technology I encounter. My approach is centered on crafting solutions that are both simple and clean, even in the face of complex functionalities.
+My name is Rahul Porel, and I'm a self-driven software developer on a learning journery. I specialize in technologies such as JavaScript, NodeJs, HTML, CSS, SASS, Webpack, Bootstrap and  Firebase. Currently, I am diving into NextJs and ReactJS. 
+As a self-taught developer, I seek to delve deep into every technology I encounter. My approach is centered on crafting solutions that are both simple and clean, even in the face of complex functionalities.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahulPorel&theme=dark&background=000000)](https://git.io/streak-stats)
+
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPorel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
