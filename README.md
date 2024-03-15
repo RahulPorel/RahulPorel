@@ -18,13 +18,11 @@ As a self-taught developer, I seek to delve deep into every technology I encount
 
 ### :fire: My Stats :
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulPorel&theme=tokyonight&show_icons=true&hide=["issues"])
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPorel&theme=tokyonight&layout=compact)
 
 <!-- ![](https://komarev.com/ghpvc/?username=RahulPorel) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
-
 <a href="https://www.linkedin.com/in/rahulporel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rahul%20Porel-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:rahulporel51@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rahulporel51@gmail.com-red?style=flat-square&logo=gmail"></a>
