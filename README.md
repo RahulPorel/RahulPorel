@@ -24,8 +24,8 @@ As a self-taught developer, I seek to delve deep into every technology I encount
 <h3> 🤝🏻 Connect with Me </h3>
 <a href="https://www.linkedin.com/in/rahulporel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rahul%20Porel-blue?style=flat-square&logo=linkedin"></a>&nbsp;&nbsp;
 <a href="mailto:rahulporel51@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rahulporel51@gmail.com-red?style=flat-square&logo=gmail"></a>&nbsp;&nbsp;
-<a href="https://rahulporel.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-rahul_porel?logo=https%3A%2F%2Fik.imagekit.io%2F8lxpwmzim%2FAvatar%2Fandroid-chrome-512x512.png%3FupdatedAt%3D1713628981541
-"></a>
+<a href="https://rahulporel.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-rahulporel-blue?style=flat-square&logo=
+Rakuten"></a>
 
 
 
