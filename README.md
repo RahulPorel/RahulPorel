@@ -2,9 +2,7 @@
 
 ## About Me
 
-My name is Rahul Porel, and I'm a self-driven software developer on a learning journery. I specialize in technologies such as JavaScript, NodeJs, React JS, HTML, CSS, Tailwind CSS, Git & GitHub, Redux, Restful Services/ APIs, Bootstrap and Firebase. Currently, I am currenlty deep diving into NextJs and FullStack technologies. 
-
-As a self-taught developer, I seek to delve deep into every technology I encounter. My approach is centered on crafting solutions that are both simple and clean, even in the face of complex functionalities.
+I am a software developer proficient in JavaScript, React.js, Node.js, and FullStack development. Passionate about building innovative solutions and constantly expanding skills. and also a Strong believer in clean code, efficient problem-solving, and continuous improvement.
 
 ### :fire: My Stats :
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulPorel&theme=tokyonight&show_icons=true&hide=["issues"]) &nbsp;&nbsp;
